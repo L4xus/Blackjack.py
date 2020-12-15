@@ -14,3 +14,8 @@ import Blackjack.py as BJ
 
 BJ()
 ```
+
+# to use the module as standalone:
+```
+python Blackjack.py
+```
